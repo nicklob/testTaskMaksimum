@@ -1,0 +1,5 @@
+Python 3.8.8
+Jupyter notebook server is: 6.3.0
+pandas 1.2.4
+seaborn 0.11.1
+psycopg2 2.8.6
